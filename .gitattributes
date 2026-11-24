@@ -1,0 +1,5 @@
+# Several graph files are larger than GitHub's 100 MB limit: store data and models with Git LFS
+# (git lfs install; then commit as usual).
+*.pkl filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
+data/datasets/_processed/**/*.csv filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,11 @@
+,mean,std
+Activity_acc,1.0,0.0
+time:timestamp_mae,0.0124786498723551,0.0047005266282387735
+AVG_total_loss,0.01416536276228721,0.004723552298254945
+MAE_time:timestamp,0.01247993994038546,0.004700408395797131
+acc_sl,1.0,0.0
+acc_sl_hard,1.0,0.0
+sat_sl,1.0,0.0
+sat_sl_hard,1.0,0.0
+fallback,0.0,0.0
+n_missing,11996.0,0.0

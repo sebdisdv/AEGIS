@@ -1,0 +1,16 @@
+# Python 3.12. Versions used for the published results.
+# Install the PyTorch build for your CUDA version first (https://pytorch.org/get-started/locally/), e.g.
+#   pip install torch==2.9.0 --index-url https://download.pytorch.org/whl/cu128
+torch==2.9.0
+torch_geometric==2.7.0
+torcheval==0.0.7
+optuna==5.0.0
+numpy==1.26.3
+pandas==2.2.3
+scipy==1.13.1
+matplotlib==3.9.2
+tqdm==4.66.5
+
+# notebook (main.ipynb) only
+jupyter
+ipywidgets==8.1.5

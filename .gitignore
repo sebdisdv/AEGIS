@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.log
+
+# outputs of new runs (published numbers are in results_reference/)
+results/
+plots/
+
+# LaTeX (results_rq.py writes figures/results_tables.tex at run time)
+*.tex
+*.bib

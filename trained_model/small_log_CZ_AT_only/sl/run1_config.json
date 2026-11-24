@@ -1,0 +1,17 @@
+{
+  "hid": 64,
+  "layers": 4,
+  "aggregation": "sum",
+  "lr": 0.007061496683015675,
+  "weight_decay": 4.100871614627134e-06,
+  "batch_size": 32,
+  "lr_gradNorm": 0.04999302003280601,
+  "alpha": 0.5467290883812002,
+  "gn_every": 2,
+  "amp": true,
+  "num_workers": 4,
+  "lambda_sem": 0.3,
+  "lambda_cond": 0.0,
+  "best_val_loss": 0.21865339577198029,
+  "sup_min": 0.99
+}
